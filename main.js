@@ -1,3 +1,3 @@
-import { makeCommit } from './index.js';
+import { makeCommit } from "./index.js";
 
-makeCommit(1);
+makeCommit(3);
